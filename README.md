@@ -30,7 +30,6 @@ den los acercará más a convertirse en grandes programadores.
 5. Al finalizar se debe compartir el link HTTPS y SSH por el classroom.
 
 # Respuestas
-- Archivo 100k: Tiempo de ejecucion 16ms
-El carácter 'j' aparece 50001 veces.
-- Archivo 200k
-- Archivo 800k
+- Archivo 100k: 10ms y la letra que más se repite es k
+- Archivo 200k: 8ms y la letra que más se repite es b
+- Archivo 800k: 17ms y la letra que más se repite es g
